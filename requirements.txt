@@ -3,3 +3,7 @@ datasets
 torch
 transformers
 pandas
+huggingface_hub
+python-dotenv
+bitsandbytes
+peft
