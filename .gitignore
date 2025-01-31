@@ -3,3 +3,6 @@
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Ignore Model 
+dialect_model.zip
